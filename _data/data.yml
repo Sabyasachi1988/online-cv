@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: hi@webjeda.com
     phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    timezone:
     citizenship:
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
