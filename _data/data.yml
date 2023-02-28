@@ -54,7 +54,7 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
       Materials Engineer specialized in ceramics, construction materials and hazardous waste 
       immobilization with 10+ years of research experience in diverse multidisciplinary projects. 
@@ -62,12 +62,13 @@ career-profile:
       training/mentoring new researchers, and supervising lab safety. 
       
       <p> <b> Seeking industrial research positions in the field of Materials and Civil Engineering. </b> </p>
+      
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: PhD in Materials Engineering
+        university: The University of British Columbia
+        time: 2016 - 2022
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
